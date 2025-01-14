@@ -1,7 +1,7 @@
-![hero](https://github.com/user-attachments/assets/a4fe89cd-318b-4267-a518-b0bbf0fde688)
+
 
 <h1 align="center">Hi 👋, I'm Estibel Mandefro</h1>
-<h3 align="center">A passionate Software Engineer from Ethiopia</h3>
+<h3 align="center">a passionate Software Engineer from Ethiopia</h3>
 
 - 🔭 I’m currently working on **Ethiopian Construction Authority ERP system**
 
