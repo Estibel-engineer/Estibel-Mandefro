@@ -1,4 +1,3 @@
-![Hero Image](https://github.com/FasHub/FasHub/blob/master/hero.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Estibel Mandefro</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
